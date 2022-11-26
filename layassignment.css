@@ -1,0 +1,157 @@
+.wrapper{
+    background-color:burlywood;
+    display: flex;
+   font-size: 25px;
+   text-align: center;
+   flex-direction:column; 
+   border: 4px solid black; 
+}
+.page1{
+   
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    
+    
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+
+}
+.logo{
+    background-color: pink;
+    flex-basis: 20%;
+
+   
+}
+.nav{
+    background-color: rgb(177, 52, 73);
+    flex-basis: 80%;
+}
+article{
+    display: flex;
+    flex-direction: row;
+    height: 60vh;
+}
+.text{
+    background-color: aquamarine;
+    flex-basis: 50%;
+}
+.image
+{
+    background-color: blueviolet;
+    flex-basis: 50%;
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+.page2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+
+
+    
+}
+.left{
+    background-color: red;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.middle{
+    background-color: yellow;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.right{
+    background-color: violet;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.page3{
+   
+    display: flex;
+    flex-direction:row;
+    height: 60vh;   
+}
+.image2
+{
+    background-color: blueviolet;
+    flex-basis: 50%;
+}
+.text2{
+    background-color: aquamarine;
+    flex-basis: 50%;
+}
+.page4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+
+
+    
+}
+.left3{
+    background-color: red;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.middle3{
+    background-color: yellow;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.right3{
+    background-color: violet;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.page5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+
+
+    
+}
+.a{
+    background-color: red;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.b{
+    background-color: yellow;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.c{
+    background-color: violet;
+    flex-basis: 23%;
+    height: 52vh;
+}
+.page6{
+   
+    display: flex;
+    flex-direction:row;
+    height: 60vh;   
+}
+.image3
+{
+    background-color: blueviolet;
+    flex-basis: 50%;
+}
+.resistration-box{
+    background-color: aquamarine;
+    flex-basis: 50%;
+}

@@ -1,0 +1,16 @@
+button{
+   
+   color: white;
+   background-color: red;
+   border-radius: 50px;
+   font-size: 25px;
+   padding: 15px;
+   cursor: pointer;
+   position: absolute;
+   left: 700px;
+   top: 350px;
+   font-style: italic;
+}
+body{
+    background-color: skyblue;
+}
